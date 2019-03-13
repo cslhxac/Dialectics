@@ -1,0 +1,5 @@
+JT: The purpose of this file is to discuss how to use the rest of the repo.  If we agree on stuff here, we can update the README with the results to 'officially' change how we use the repo.
+
+JT: I think we should try to add sources to things if we can.  That way this can abe a single resource for things.  Biblical scripture is an exception to this suggestion, as it's more easily looked up.  Although, if it matters, perhaps a translation identifier might be useful.
+
+JT: Also, It'd be nice to keep standardized file names so people using non-commandline won't be stuck.  (ie Windows or Android)
