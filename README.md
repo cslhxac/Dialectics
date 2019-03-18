@@ -20,5 +20,9 @@ Here are the rules:
      Example:
 
         Haixiang Liu: If no cat has two tails and all cats has one more tails than no cat, all cats have three tails.
+        
+3. You can add reference with Name: [reference]
 
-3. Enjoy your conversation!
+4. You can also add comments and thoughts with Name: {comments} 
+
+5. Enjoy your conversation!
